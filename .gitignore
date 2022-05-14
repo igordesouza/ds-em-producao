@@ -1,0 +1,7 @@
+# Extensão .csv não será adicionada
+*.csv
+Untitled.ipynb
+clone_ds_em_producao/
+.python-version
+.ipynb_checkpoints/
+.DS_Store
