@@ -5,3 +5,4 @@ clone_ds_em_producao/
 .python-version
 .ipynb_checkpoints/
 .DS_Store
+webapp/
